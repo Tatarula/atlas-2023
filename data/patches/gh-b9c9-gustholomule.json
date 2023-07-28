@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "Gustholomule",
+	"description": "Pairing between the characters Mattholomule and Gus Porter from the show The Owl House. Drawing initiated by a popular Gustholomule artist sstrawbbz and their followers.",
+	"links": {
+		"website": [
+			"https://twitter.com/sstrawbbz"
+		]
+	},
+	"path": {
+		"177-193": [
+			[
+				159,
+				-825
+			],
+			[
+				159,
+				-809
+			],
+			[
+				191,
+				-809
+			],
+			[
+				191,
+				-825
+			]
+		]
+	},
+	"center": {
+		"177-193": [
+			175,
+			-817
+		]
+	}
+}
